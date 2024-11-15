@@ -19,7 +19,7 @@ To get started, download or clone this repository, open the desired project in t
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/jemysh007/ArduinoUno-Projects
+   git clone https://github.com/jemysh007/ArduinoUno-Projects.git
    ```
 2. Open the project folder of choice in the Arduino IDE.
 3. Connect your Arduino Uno3 board to your computer.
