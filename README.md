@@ -8,11 +8,10 @@ This repository contains various projects and examples created using the Arduino
 - [Project Overview](#project-overview)
 - [Installation](#installation)
 - [Projects](#projects)
-- [License](#license)
 
 ## Project Overview
 
-Each folder contains code and configurations for a specific project or example. These projects cover a range of functionality, from LED blinking to Wi-Fi communication with NodeMCU. Projects are organized by functionality and include comments for easy understanding.
+Each folder contains code and configurations for a specific project or sample code. These projects cover a range of functionality, from LED blinking to Wi-Fi communication with NodeMCU. Projects are organized by functionality and include comments for easy understanding.
 
 ## Installation
 
@@ -90,9 +89,5 @@ To get started, download or clone this repository, open the desired project in t
     - **nodeMcu_Connect_Wifi**: Connects NodeMCU to Wi-Fi.
     - **nodeMcu_Demo**: NodeMCU basic demonstration.
     - **nodeMcu_Request_Handling**: NodeMCU handling HTTP requests.
-
-## License
-
-This project is open-source and available under the [MIT License](LICENSE).
 
 ---
